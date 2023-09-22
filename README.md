@@ -7,19 +7,20 @@
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: left;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=const+Sapana+%3D+%7B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=const+Sapana+%3D+%7B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+pronouns%3A+%22she%2Fher%22%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%7C+pronouns%3A+%22she%2Fher%22%2C)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+FullStackDeveloper%3A+true%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%7C+FullStackDeveloper%3A+true%2C)](https://git.io/typing-svg)
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+numOfCats%3A+2%2C)](https://git.io/typing-svg) -->
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%7C+numOfCats%3A+2%2C)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+interests%3A+%5Bdecoration%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%7C+interests%3A+%5Bdecoration%2C)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7C+travel%2C+hiking%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%7C+travel%2C+hiking%5D)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13C82C&width=435&lines=%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%7D)](https://git.io/typing-svg)
+
 
  </div>
 
