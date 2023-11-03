@@ -6,7 +6,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: left;">
-  ![](https://komarev.com/ghpvc/?username=your-github-username)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=const+Sapana+%3D+%7B)](https://git.io/typing-svg)
 
